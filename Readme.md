@@ -12,14 +12,33 @@ I  have tried my best to explain each and every step done to make the project...
 <h1><b>First Task</b></h1>
 1st Task was to create an image that will have jenkins installed in it...
 
-1. First we need to create the docker file
+                  1. First we need to create the docker file
 ![](/Task2/Dockerfile.png)
 
 2. Write these in the Dockerfile
 
 ![](/Task2/Dockerfile_contents.png)
 
-In my case I actually used the :
+3.After creating the Dockerfile we need to build the image:
+
+![](Task2/Dockerfile_syntax.png)
+
+I used:
+
+![](Task2/build.png)
+
+Here I used the "." to point to the current directory to find the Dockerfile
+
+And then run it:
+
+![](Task2/docker_buils.png)
+
+After the build is done....Our 1st Task is completed with the creation of image
+
+<h1><b>Second Task</b></h1>
+
+
+
 
 
 
