@@ -15,11 +15,11 @@ I  have tried my best to explain each and every step done to make the project...
 1. First we need to create the docker file
 ![](/Task2/Dockerfile.png)
 
-We need to create the Dockerfile and then need to build it ...
+2. Write these in the Dockerfile
 
-![](/Task2/Dockerfile_syntax.png)
+![](/Task2/Dockerfile_contents.png)
 
 In my case I actually used the :
 
-![](/Task2/Dockerfile_contents.png)
+
 
