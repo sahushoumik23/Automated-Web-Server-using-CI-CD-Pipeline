@@ -1,8 +1,19 @@
-Sorry for the inconvinience but the work for the project is still in progress...
+Hello There,
 
-It will be completed within a day or two...
+I am Shoumik Sahu and I was given the task to create an Automation system that will perform the following tasks shown below.
 
-Till then please allow me to complete the project so that the task will be fully completed..
+I  have tried my best to explain each and every step done to make the project...
 
-Thank you,
-Shoumik Sahu
+1. I created a folder in my BaseOS(Redhat Linux 8) :
+    mkdir /root/Desktop/New_job
+    cd /root/Desktop/New_job
+2.  We were supposed to do the tasks given by vimal daga sir:
+
+<h1><b>First Task</b></h1>
+1st Task was to create an image that will have jenkins installed in it...
+  <ol>
+  <li>We need to create a file named Dockerfile in the folder....I named it New_job...
+    <img src="C:\Users\91934\Desktop\Task2\Dockerfile.png">
+    
+    <br>
+   
