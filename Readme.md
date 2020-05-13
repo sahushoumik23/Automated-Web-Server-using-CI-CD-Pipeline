@@ -12,6 +12,7 @@ I  have tried my best to explain each and every step done to make the project...
 <h1><b>First Task</b></h1>
 1st Task was to create an image that will have jenkins installed in it...
 
+1. First we need to create the docker file
 ![](/Task2/Dockerfile.png)
 
 We need to create the Dockerfile and then need to build it ...
@@ -20,5 +21,5 @@ We need to create the Dockerfile and then need to build it ...
 
 In my case I actually used the :
 
-![](/Task2/Dockerfile__contents.png)
+![](/Task2/Dockerfile_contents.png)
 
