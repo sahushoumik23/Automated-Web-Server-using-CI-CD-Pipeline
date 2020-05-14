@@ -49,6 +49,9 @@ I am assuming that you already know how to setup Jenkins and also how to install
     ![](Task2/docker_run.png)
     
   Here i used the -p to allocate a particular BaseOS port to 8080 port(jenkins running port)
+  
+  *NOTE*:
+  In case if the Jenkins shows some other errors if not mentioned here....Then again run a new container with the same image and add "--previleged" as an option...
  
    After running this will be the output:
 ![](Task2/run_output.png)
