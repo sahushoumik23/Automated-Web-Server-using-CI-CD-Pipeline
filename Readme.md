@@ -188,7 +188,7 @@ And write the following:
 
 Hit  'I' to enter insert mode and move down to change the following: 
 
-![](Task2/smtp-2).png
+![](Task2/smtp-2.png) 
 
 ![](Task2/smtp-3.png)
 
