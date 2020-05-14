@@ -130,6 +130,8 @@ This job is to detect the type of file and based on that run a docker image for 
 
 ![](Task2/Job3-2.png)
 
+I was facing problems with this one as the docker commands were not executing...One of the members of the MLOPs Training named Raghav Gupta helped me resolving my problem by pointing to use the "-A" to easily execute the task...
+
 <h2>4th Job</h2>
 
 This job is supposed to check if the app or program uploaded by the developer is working properly or not...if not then we need the job to send an email to the developer:
@@ -204,6 +206,8 @@ This will just restart the container..
 <h1>Congratulations</h1>
 
 <h3>With this the Automated server is up and running to be used....host files or webpages and it will automatic deploy the program to the server...</h3>
+
+<h4> Thank you all the MLOPs group members to help me build this task and complete the project...
 
 In case of any problem or query just Direct Message(DM) me on my Linkedin Profile:
 
