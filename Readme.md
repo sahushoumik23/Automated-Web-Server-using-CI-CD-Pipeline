@@ -205,7 +205,7 @@ This will just restart the container..
 
 <h3>With this the Automated server is up and running to be used....host files or webpages and it will automatic deploy the program to the server...</h3>
 
-In case of any problem or query just DM me on y Linkedin Profile:
+In case of any problem or query just Direct Message(DM) me on my Linkedin Profile:
 
 https://www.linkedin.com/in/shoumik-sahu-3b5631188
 
