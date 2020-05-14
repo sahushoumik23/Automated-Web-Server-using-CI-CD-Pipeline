@@ -202,6 +202,34 @@ This was a task that is the app or program fails to run then it should restart t
 
 This will just restart the container..
 
+<h1>Fourth Task</h1>
+
+This part was to have the jobs in pipeline...
+
+To do this....
+
+1. First click on this:
+
+![](Task2/plus.PNG)
+
+2. Then just give a name to the pipeline and select the Build Pipeline View and then click ok...
+
+![](Task2/pipeline-2.png)
+
+3. Now do the following:
+
+![](Task2/pipeline-3.png)
+
+
+And click on Apply then click on save...
+
+4.Now your pipeline is created and may look like this:
+
+![](Task2/pipeline-4.png)
+
+
+<h4>I intensionally failed the Job-4 to test the Email feature and it Works just fine....</h4>
+
 
 <h1>Congratulations</h1>
 
